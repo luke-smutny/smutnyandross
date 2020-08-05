@@ -10,6 +10,21 @@
  * Copyright 2011-2020 Twitter, Inc.
  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
  */
+
+.hours-container{
+  background-color: rgba(186, 186, 186);
+  height: auto;
+  width: 300px;
+  border-radius: 25px;
+}
+
+.service-image{
+  height: 200px;
+  width: 200px;
+}
+
+
+
 :root {
   --blue: #007bff;
   --indigo: #6610f2;
