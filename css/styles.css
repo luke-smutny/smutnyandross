@@ -22,11 +22,17 @@
   
 }
 
-.map-container{
+.mobile-nav{
+  background-color: #1d5d9e;
   
-  
-  
-  
+}
+
+.top-logo{
+  color: white !important;
+}
+
+.main-bar-mobile{
+  background-color: #1d5d9e;
 }
 
 .service-image{
