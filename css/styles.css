@@ -16,12 +16,41 @@
   height: auto;
   width: 300px;
   border-radius: 25px;
+  padding: 10px;
+  margin: 0px;
+  display: inline-block;
+  
+}
+
+.map-container{
+  
+  
+  
   
 }
 
 .service-image{
   height: 200px;
   width: 200px;
+}
+
+.info-image{
+  height: auto;
+  width: 50%;
+  padding: 10px;
+}
+
+.info-image-container{
+  display: inline-block;
+  height: auto;
+  width: 300px;
+  border-radius: 25px;
+  padding: 10px;
+  
+}
+
+.info-line{
+  width: 300px;
 }
 
 
