@@ -22,6 +22,22 @@
   
 }
 
+
+.top-words{
+  /*text-shadow: 1px 0 0 #000, 0 -1px 0 #000, 0 1px 0 #000, -1px 0 0 #000;*/
+}
+
+@media (max-width: 767px){
+  .map-container{
+    margin-left: 0rem !important;
+    margin-top: 1rem !important;
+  }
+}
+
+.map-container{
+  margin-left: 10rem;
+}
+
 .yelp-review{
   margin: 10px;
 }
@@ -10199,7 +10215,8 @@ header.masthead {
   padding-bottom: 6rem;
   text-align: center;
   color: #fff;
-  background-image: url("../assets/img/header-test.jpg");
+  /*background-image: url("../assets/img/head/good3.jpg");*/
+  background-image: url("../assets/img/services/Wrenches.jpg");
   background-repeat: no-repeat;
   background-attachment: scroll;
   background-position: center center;
