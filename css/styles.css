@@ -34,7 +34,7 @@
     
   }
 
-  .shop-map{
+   .shop-map{
     width: 340px !important;
     height: 240px !important;
   }
@@ -42,7 +42,7 @@
   .shop-image-map{
     width: 340px !important;
     height: auto !important;
-  }
+  } 
 }
 
 .shop-image-map{
